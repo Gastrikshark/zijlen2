@@ -39,3 +39,11 @@ sysinfo.txt
 Icon?
 ehthumbs.db
 Thumbs.db
+*.log
+*.log
+*.log
+zijlen/Logs/shadercompiler-AssetImportWorker0.log
+zijlen/Logs/AssetImportWorker1.log
+zijlen/Logs/AssetImportWorker1-prev.log
+zijlen/Logs/AssetImportWorker0.log
+zijlen/Logs/AssetImportWorker0-prev.log
